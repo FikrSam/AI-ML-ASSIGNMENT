@@ -105,8 +105,8 @@ pip --version
 ### 2️⃣ Clone or Download the Project
 
 ```bash
-git clone <repository-url>
-cd house-price-prediction
+git clone https://github.com/FikrSam/AI-ML-ASSIGNMENT.git
+cd AI-ML-ASSIGNMENT
 ```
 
 Or download the ZIP and extract it.
