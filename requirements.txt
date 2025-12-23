@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+
+#specific versions:
+
+# pandas>=1.5
+# numpy>=1.23
+# scikit-learn>=1.3
+# streamlit>=1.28
+# joblib>=1.3
+

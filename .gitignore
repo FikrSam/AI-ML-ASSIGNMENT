@@ -1,0 +1,52 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Virtual Environments
+# ======================
+venv/
+.env/
+.venv/
+
+# ======================
+# Jupyter / ML artifacts
+# ======================
+.ipynb_checkpoints/
+*.joblib
+*.pkl
+*.h5
+
+# ======================
+# Streamlit
+# ======================
+.streamlit/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# macOS
+# ======================
+.DS_Store
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# Data (optional)
+# Uncomment if you DON'T want to track the dataset
+# ======================
+# Housing.csv
