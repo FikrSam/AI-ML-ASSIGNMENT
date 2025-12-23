@@ -78,7 +78,7 @@ The UI makes the ML model interactive and easy to use for non-technical users.
 ├── Housing.csv           # Dataset
 ├── model_training.py     # Data preprocessing, training, evaluation, model saving
 ├── app.py                # Streamlit user interface
-├── requirements.txt      # Project dependencies (recommended)
+├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
 
